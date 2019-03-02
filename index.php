@@ -3,19 +3,8 @@
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
         <title>City Without Crime</title>
-        <link href="templatemo_style.css" rel="stylesheet" type="text/css" />
-        <style type="text/css">
-            <!--
-            .style1 {color: #000000;
-                     font-family: cursive;
-            }
-            .style2 {
-                font-size: 18px;
-                font-weight: bold;
-                font-family: cursive;
-            }
-            -->
-        </style>
+        <link href="templatemo_style.css" rel="stylesheet" type="text/css" />// insert the style in the external style sheet 
+        
     </head>
     <body>
         <div id="templatemo_wrapper">
